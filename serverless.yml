@@ -1,4 +1,4 @@
-service: aws-serverless-node-todo-api
+service: todo-api
 
 frameworkVersion: '3'
 
